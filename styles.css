@@ -9,6 +9,7 @@ html {
 body {
     display: block;
     min-height: 100%;
+    margin: 8px;
     margin: auto;
     padding: 5px;
     max-width: 80%;
@@ -18,8 +19,9 @@ body {
 
 main {
     text-align: center;
-    margin-left: 5%;
-    margin-right: 5%;
+    /* margin-left: 5%;
+    margin-right: 5%; */
+    margin: auto;
 }
 
 #mainHeading {
