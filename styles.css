@@ -1,1 +1,60 @@
-/* Write your CSS here! */
+html {
+    height: 100%;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #FFF;
+    color: #000000;
+}
+
+body {
+    display: block;
+    min-height: 100%;
+    margin: 8px;
+    padding: 5px;
+    max-width: 100%;
+    background: #e7f8e9;
+    border: 2px #dddddd solid;
+}
+
+main {
+    text-align: center;
+    margin: auto;
+    max-width: 80%;
+}
+
+#mainHeading {
+    color: red;
+}
+
+#title {
+    font-size: 40px;
+    color: #234732;
+}
+
+#length {
+    font-size: 15px;
+    color: #75887f;
+}
+
+#testP {
+    color: green;
+}
+
+.poses {
+    font-size: 25px;
+    color: #234732;
+    margin-top: 50px;
+    padding-top: 10px;
+}
+
+
+.caption {
+    text-align: center;
+    font-size: 11px;
+    color: #869b91;
+}
+
+img {
+    width: 500px;
+    height: 350px;
+}
