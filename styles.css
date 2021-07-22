@@ -54,12 +54,7 @@ main {
     color: #869b91;
 }
 
-.pupPic {
+img {
     width: 500px;
     height: 350px;
-}
-
-#lab {
-    height: 200px;
-    width: 150px;
 }
