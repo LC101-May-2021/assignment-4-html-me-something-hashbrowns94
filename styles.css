@@ -10,18 +10,16 @@ body {
     display: block;
     min-height: 100%;
     margin: 8px;
-    margin: auto;
     padding: 5px;
-    max-width: 80%;
+    max-width: 100%;
     background: #e7f8e9;
     border: 2px #dddddd solid;
 }
 
 main {
     text-align: center;
-    /* margin-left: 5%;
-    margin-right: 5%; */
     margin: auto;
+    max-width: 80%;
 }
 
 #mainHeading {
